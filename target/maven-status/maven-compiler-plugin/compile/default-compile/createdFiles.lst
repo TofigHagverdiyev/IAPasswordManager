@@ -1,0 +1,9 @@
+com\example\passwordmanager\LoginScreen.class
+com\example\passwordmanager\FirebaseService.class
+com\example\passwordmanager\Entry.class
+com\example\passwordmanager\HIBPChecker.class
+com\example\passwordmanager\PasswordManagerGUI.class
+com\example\passwordmanager\PasswordValidator.class
+com\example\passwordmanager\Hash.class
+com\example\passwordmanager\PasswordGenerator.class
+com\example\passwordmanager\PasswordManager.class
