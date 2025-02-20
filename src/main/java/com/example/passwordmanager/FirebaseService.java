@@ -36,7 +36,7 @@ public class FirebaseService {
 
         UserRecord userRecord = auth.createUser(request);
 
-        // ✅ Fix: Send verification email
+       
         sendVerificationEmail(userRecord.getUid(), email);
 
         return userRecord.getUid();
